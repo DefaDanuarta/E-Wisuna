@@ -1,0 +1,9 @@
+Username + pass
+Username == dfa 
+Username == dfa (masyarakat)
+
+Username == petugas
+Password == petugas  (Petugas)
+
+Username == admin
+Password == admin  (admin)
